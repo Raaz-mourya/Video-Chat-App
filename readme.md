@@ -12,10 +12,10 @@
 > - Git
 
 ### Landing Page
-![Video app looby!](client\src\assets\app_looby.png "App Looby")
+![Video app looby!](https://github.com/Raaz-mourya/Video-Chat-App/blob/master/client/src/assets/app_looby.png "App Looby")
 
 ### Video Room
-![Video app room!](client\src\assets\app_room.png "App Room")
+![Video app room!](https://github.com/Raaz-mourya/Video-Chat-App/blob/master/client/src/assets/app_room.png "App Room")
 
 
 > ### special thanks to youtube channel
